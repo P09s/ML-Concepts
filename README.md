@@ -1,35 +1,35 @@
-# 🚀 Machine Learning Concepts (Stanford Specialization)
+# Machine Learning Concepts (Stanford Specialization)
 
 > A hands-on repository documenting my journey through the **Stanford Machine Learning Specialization** by Andrew Ng, with complete implementations, notes, and experiments.
 
 ---
 
-## 📌 About This Repository
+## About This Repository
 
 This repository contains:
-- 📚 Implementations of core ML algorithms  
-- 🧠 Concept breakdowns from lectures  
-- 🧪 Practice labs & experiments  
-- 📈 Model evaluation & tuning insights  
+- Implementations of core ML algorithms  
+- Concept breakdowns from lectures  
+- Practice labs & experiments  
+- Model evaluation & tuning insights  
 
 The goal is to **learn ML deeply by coding everything from scratch and with libraries**.
 
 ---
 
-## 🎯 What I'm Learning
+## What I'm Learning
 
-### 🧩 Supervised Learning
+### Supervised Learning
 - Linear Regression
 - Logistic Regression
 - Regularization (L1 / L2)
 - Model evaluation (J_train, J_cv)
 
-### 🧠 Neural Networks & Deep Learning
+### Neural Networks & Deep Learning
 - Forward propagation
 - Activation functions
 - Multi-layer architectures
 
-### ⚙️ Advanced Concepts
+### Advanced Concepts
 - Bias vs Variance
 - Learning curves
 - Feature engineering
@@ -63,9 +63,9 @@ ML-Concepts/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- Python 🐍
+- Python
 - NumPy
 - Matplotlib
 - Scikit-learn
@@ -73,7 +73,7 @@ ML-Concepts/
 
 ---
 
-## 🧪 Learning Approach
+## Learning Approach
 
 Instead of just using libraries, I focus on:
 
@@ -87,7 +87,7 @@ Instead of just using libraries, I focus on:
 
 ---
 
-## 📈 Progress Tracking
+## Progress Tracking
 
 - [x] Linear Regression  
 - [x] Logistic Regression  
@@ -98,7 +98,7 @@ Instead of just using libraries, I focus on:
 
 ---
 
-## 🔥 Key Learnings So Far
+## Key Learnings So Far
 
 - Overfitting ≠ good performance  
 - λ (regularization) is a **bias-variance control knob**  
@@ -107,7 +107,7 @@ Instead of just using libraries, I focus on:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/P09s/ML-Concepts.git
@@ -117,19 +117,19 @@ pip install -r requirements.txt
 
 ---
 
-## 🎓 Course Reference
+## Course Reference
 
 * Stanford Machine Learning Specialization – Coursera
 * Instructor: Andrew Ng
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 This is a personal learning repo, but suggestions and improvements are welcome!
 
 ---
 
-## ⭐ Motivation
+## Motivation
 
 > "Don't just use ML — understand it."
