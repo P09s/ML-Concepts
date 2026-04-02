@@ -37,32 +37,6 @@ The goal is to **learn ML deeply by coding everything from scratch and with libr
 
 ---
 
-## 📂 Repository Structure
-
-```
-
-ML-Concepts/
-│
-├── regression/
-│   ├── linear_regression.py
-│   ├── polynomial_regression.py
-│
-├── classification/
-│   ├── logistic_regression.py
-│   ├── neural_network.py
-│
-├── notebooks/
-│   ├── labs.ipynb
-│
-├── utils/
-│   ├── helper_functions.py
-│
-└── README.md
-
-````
-
----
-
 ## Tech Stack
 
 - Python
